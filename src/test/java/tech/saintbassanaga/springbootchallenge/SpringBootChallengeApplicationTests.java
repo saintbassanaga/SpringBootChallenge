@@ -1,4 +1,4 @@
-package tech.bassanaga.springbootchallenge;
+package tech.saintbassanaga.springbootchallenge;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
